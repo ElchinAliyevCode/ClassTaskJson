@@ -1,0 +1,65 @@
+[
+    {
+        "Id": 1,
+        "Name": "Salam1",
+        "Username": "Bret1",
+        "Email": "Sincere@april.biz1",
+        "Phone": "001",
+        "Website": "hildegard.org1",
+        "IsDeleted": false
+    },
+    {
+        "Id": 2,
+        "Name": "Salam2",
+        "Username": "Bret2",
+        "Email": "Sincere@april.biz2",
+        "Phone": "002",
+        "Website": "hildegard.org2",
+        "IsDeleted": false
+    },
+    {
+        "Id": 3,
+        "Name": "Salam3",
+        "Username": "Bret3",
+        "Email": "Sincere@april.biz3",
+        "Phone": "003",
+        "Website": "hildegard.org3",
+        "IsDeleted": false
+    },
+    {
+        "Id": 4,
+        "Name": "Salam4",
+        "Username": "Bret4",
+        "Email": "Sincere@april.biz4",
+        "Phone": "004",
+        "Website": "hildegard.org4",
+        "IsDeleted": false
+    },
+    {
+        "Id": 5,
+        "Name": "Salam5",
+        "Username": "Bret5",
+        "Email": "Sincere@april.biz5",
+        "Phone": "005",
+        "Website": "hildegard.org5",
+        "IsDeleted": false
+    },
+    {
+        "Id": 6,
+        "Name": "Alma",
+        "Username": "Armud",
+        "Email": "alma@gmail.com",
+        "Phone": "55555",
+        "Website": "alma.com",
+        "IsDeleted": true
+    },
+    {
+        "Id": 7,
+        "Name": "Rashad Xalilov",
+        "Username": "RashadXalilov",
+        "Email": "rashad@gmail.com",
+        "Phone": "+9942111112",
+        "Website": "rashad.net",
+        "IsDeleted": true
+    }
+]
