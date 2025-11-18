@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp51;
+using Newtonsoft.Json;
+
+namespace ConsoleApp51;
 
 public class Post
 {
@@ -16,4 +18,14 @@ public class Post
         Body = body;
         IsDeleted = false;
     }
+
+    public void ShowPostInfo()
+    {
+        if (!IsDeleted)
+        {
+            Console.WriteLine($"UserId: {UserId}\nId: {Id}\nTitle: {Title}\nBody: {Body}");
+            Console.WriteLine();
+        }
+    }
+
 }
